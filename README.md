@@ -1,3 +1,5 @@
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+
 # Hi there 👋, I'm Harsha Jayamal
 - 🌱 I’m learning Full Stack Development
 - 💻 Love working with JavaScript, React, .NET, and AI
@@ -52,14 +54,8 @@
 
 ---
 
-## ☕ Support
-<p>
-  <a href="https://www.buymeacoffee.com/YOUR-USERNAME" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" />
-  </a>
-</p>
 
 
 
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+
