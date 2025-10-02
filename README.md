@@ -16,9 +16,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F700&lines=Full+Stack+Developer;AI+%26+Automation+Learner;Always+Learning+New+Tech)](https://git.io/typing-svg)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat)
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=flat-square)
 
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
