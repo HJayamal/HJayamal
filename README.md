@@ -1,11 +1,12 @@
 
 
 # Hi! 👋, I'm Harsha Jayamal
+
 - 🌱 I’m learning Full Stack Development
 - 💻 Love working with JavaScript, React, .NET, and AI
-- ⚡ Fun fact: Coffee powers my code ☕
+- ⚡ Fun fact: Coffee powers my code ☕                        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HJayamal&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HJayamal&layout=compact)
@@ -22,7 +23,7 @@
 
 ## 👋 Connect with me
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/harsha-jayamal-0b6087313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://facebook.com/YOUR-FACEBOOK" target="_blank">
