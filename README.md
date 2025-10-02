@@ -6,7 +6,7 @@
 - 💻 Love working with JavaScript, React, .NET, and AI
 - ⚡ Fun fact: Coffee powers my code ☕
 <p align ="right">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>>
 
 
