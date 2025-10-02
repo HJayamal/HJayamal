@@ -3,8 +3,8 @@
 - 💻 Love working with JavaScript, React, .NET, and AI
 - ⚡ Fun fact: Coffee powers my code ☕
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshaJayamal&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaJayamal&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HJayamal&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HJayamal&layout=compact)
 
 ![Profile views](https://komarev.com/ghpvc/?username=HarshaJayamal&color=blue)
 
