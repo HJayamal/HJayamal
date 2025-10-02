@@ -17,12 +17,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F700&lines=Full+Stack+Developer;AI+%26+Automation+Learner;Always+Learning+New+Tech)](https://git.io/typing-svg)
 
 ### ⚡ Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
-![React](https://img.shields.io/badge/-React-000?&logo=react)
-![.NET](https://img.shields.io/badge/-.NET-000?&logo=dotnet)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
