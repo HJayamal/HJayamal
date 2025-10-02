@@ -1,9 +1,11 @@
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 
-# Hi there 👋, I'm Harsha Jayamal
+
+# Hi! 👋, I'm Harsha Jayamal
 - 🌱 I’m learning Full Stack Development
 - 💻 Love working with JavaScript, React, .NET, and AI
 - ⚡ Fun fact: Coffee powers my code ☕
+
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HJayamal&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HJayamal&layout=compact)
