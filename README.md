@@ -65,9 +65,10 @@
 
 ---
 
-## 💎 Support
+## 💎 Support My Work
 <p align="center">
   <a href="https://ko-fi.com/HarshaJayamal" target="_blank">
-    <img src="https://img.shields.io/badge/Ko--fi-Support_Me-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" />
+    <img src="https://img.shields.io/badge/Support-My_Work-blueviolet?style=for-the-badge&logo=githubsponsors&logoColor=white" />
   </a>
 </p>
+
