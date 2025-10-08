@@ -55,10 +55,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HarshaJayamal&theme=onedark&no-frame=true&margin-w=10" alt="Trophies" />
-</p>
 
 ---
 
@@ -69,9 +65,9 @@
 
 ---
 
-## ☕ Support
+## 💎 Support
 <p align="center">
-  <a href="https://www.buymeacoffee.com/YOUR-USERNAME" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" />
+  <a href="https://ko-fi.com/HarshaJayamal" target="_blank">
+    <img src="https://img.shields.io/badge/Ko--fi-Support_Me-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" />
   </a>
 </p>
